@@ -1,7 +1,8 @@
 # cleandata
 clean data course project
 
-This project does an analysis on the UCI HAR Dataset which you need to download first 
+This project does an analysis on the UCI HAR Dataset which you need to download first from
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 The dataset includes the following files:
 =========================================
